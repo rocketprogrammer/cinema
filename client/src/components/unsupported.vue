@@ -3,7 +3,6 @@
     <div class="window">
       <div class="logo">
         <img src="@/assets/images/logo.png" alt="Cinema" />
-        <span><b>n</b>.eko</span>
       </div>
       <div class="message">
         <span>{{ $t('unsupported') }}</span>
