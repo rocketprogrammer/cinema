@@ -2,7 +2,7 @@
   <div class="unsupported">
     <div class="window">
       <div class="logo">
-        <img src="@/assets/images/logo.svg" alt="n.eko" />
+        <img src="@/assets/images/logo.png" alt="Cinema" />
         <span><b>n</b>.eko</span>
       </div>
       <div class="message">

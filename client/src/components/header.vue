@@ -1,7 +1,7 @@
 <template>
   <div class="header">
-    <a href="https://github.com/m1k1o/neko" title="Github repository" target="_blank" class="neko">
-      <img src="@/assets/images/logo.svg" alt="n.eko" />
+    <a href="https://github.com/rocketprogrammer/cinema" title="Github repository" target="_blank" class="neko">
+      <img src="@/assets/images/logo.png" alt="Cinema" />
       <span><b>n</b>.eko</span>
     </a>
     <ul class="menu">
