@@ -1,6 +1,6 @@
 <!-- _coverpage.md -->
 
-<img src="_media/logo.png" width="450" height="auto"/>
+<img src="_media/icon.png" width="450" height="auto"/>
 
 > A self hosted virtual browser that runs in docker
 

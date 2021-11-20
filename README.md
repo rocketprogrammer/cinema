@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/m1k1o/neko" title="Neko's Github repository.">
-    <img src="https://raw.githubusercontent.com/m1k1o/neko/master/docs/_media/logo.png" width="450" height="auto"/>
+    <img src="https://raw.githubusercontent.com/rocketprogrammer/cinema/master/docs/_media/icon.png" width="450" height="auto"/>
   </a>
   <p align="center">
     <img src="https://img.shields.io/github/v/release/m1k1o/neko" alt="release">
